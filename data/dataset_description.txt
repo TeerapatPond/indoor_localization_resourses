@@ -1,0 +1,7 @@
+- day1 - day5 เก็บจากตึก 3 วันใกล้เคียงกัน
+- day99 เก็บจากตึก 3
+- before_exhibition, during_exhibition เก็บตอนงานจุฬาวิชาการ 34 - 37 ตึก
+- eng มีทั้งหมด 5 ตึก
+- io_eng4 มีทั้ง indoor/outdoor ของตึก 4
+- io_en100 มีทั้ง indoor/outdoor ของตึก 100 ปี
+- real_sampling เป็น data ที่มาจาก user จริงในงาน chula expo 2017
